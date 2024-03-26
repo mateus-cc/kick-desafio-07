@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 10%;
+    text-align: center;
+}
+
+#tabela {
+    width: 600px;
+    height: 400px;
+}
+
+.cabecalho {
+    background-color: green;
+}
+
+.conteudo {
+    background-color: white;
+    color: black;
+}
